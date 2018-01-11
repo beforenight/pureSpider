@@ -7,3 +7,5 @@ pureSpider  --  主流网站爬虫系列
 ## 3.爬取App华为商店下载量
 
 ## 4.获取coolapk.com应用分类统计
+
+###5.用python来发送邮件
