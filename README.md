@@ -8,4 +8,4 @@ pureSpider  --  主流网站爬虫系列
 
 ## 4.获取coolapk.com应用分类统计
 
-###5.用python来发送邮件
+### 5.用python来发送邮件
