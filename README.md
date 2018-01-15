@@ -11,3 +11,5 @@ pureSpider  --  主流网站爬虫系列
 ## 5.用python来发送邮件
 
 ## 6.获取本机设备Ip地址/获取远程设备的IP地址
+
+## 7.格式化IPv4地址/调用函数getservbyport()解析端口
