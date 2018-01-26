@@ -13,3 +13,5 @@ pureSpider  --  主流网站爬虫系列
 ## 6.获取本机设备Ip地址/获取远程设备的IP地址
 
 ## 7.格式化IPv4地址/调用函数getservbyport()解析端口
+
+## 8.用Python进行词频统计
